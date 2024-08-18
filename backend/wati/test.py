@@ -11,5 +11,3 @@ print("Hashed password:", hashed)
 is_valid = pwd_cxt.verify("mysecretpassword", hashed)
 print("Password valid:", is_valid)
 
-
-print('Hello')
